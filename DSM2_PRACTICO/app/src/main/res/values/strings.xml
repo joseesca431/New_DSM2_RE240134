@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DSM2_PRACTICO</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="confirm_password">Confirmar contraseña</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="register">Registrarse</string>
+    <string name="don_t_have_an_account">¿No tienes una cuenta? Regístrate</string>
+    <string name="already_have_an_account">¿Ya tienes una cuenta? Inicia sesión</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="login_success">Sesión iniciada correctamente</string>
+    <string name="register_success">Registro exitoso</string>
+    <string name="login_failed">Error al iniciar sesión</string>
+    <string name="register_failed">Error en el registro</string>
+    <string name="fields_required">Todos los campos son obligatorios</string>
+    <string name="password_mismatch">Las contraseñas no coinciden</string>
+    <string name="register_student">Registrar Alumno</string>
+    <string name="register_grades">Registrar Notas</string>
+    <string name="student_list">Lista de Alumnos</string>
+</resources>
