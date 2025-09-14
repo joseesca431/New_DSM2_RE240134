@@ -13,6 +13,9 @@
         android:theme="@style/Theme.DSM2_PRACTICO"
         tools:targetApi="31">
         <activity
+            android:name=".NotaFinalActivity"
+            android:exported="false" />
+        <activity
             android:name=".RegisterStudentActivity"
             android:exported="false" />
         <activity

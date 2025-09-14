@@ -55,11 +55,8 @@ class MainActivity : AppCompatActivity() {
         }
 
         btnRegisterGrades.setOnClickListener {
-            // Aquí puedes abrir la actividad para registrar notas
-            Toast.makeText(this, "Funcionalidad de registrar notas", Toast.LENGTH_SHORT).show()
-            // Intent para abrir RegisterGradesActivity (deberás crearla)
-            // val intent = Intent(this, RegisterGradesActivity::class.java)
-            // startActivity(intent)
+            val intent = Intent(this, NotaFinalActivity::class.java)
+            startActivity(intent)
         }
 
         btnStudentList.setOnClickListener {

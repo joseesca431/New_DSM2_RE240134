@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Grados predefinidos -->
+    <string-array name="grados">
+        <item>1° Grado</item>
+        <item>2° Grado</item>
+        <item>3° Grado</item>
+        <item>4° Grado</item>
+        <item>5° Grado</item>
+        <item>6° Grado</item>
+        <item>7° Grado</item>
+        <item>8° Grado</item>
+        <item>9° Grado</item>
+        <item>10° Grado</item>
+        <item>11° Grado</item>
+        <item>12° Grado</item>
+    </string-array>
+
+    <!-- Materias predefinidas -->
+    <string-array name="materias">
+        <item>Matemáticas</item>
+        <item>Lenguaje y Literatura</item>
+        <item>Ciencias Naturales</item>
+        <item>Estudios Sociales</item>
+        <item>Inglés</item>
+        <item>Educación Física</item>
+        <item>Arte y Cultura</item>
+        <item>Informática</item>
+        <item>Física</item>
+        <item>Química</item>
+        <item>Biología</item>
+        <item>Filosofía</item>
+        <item>Historia</item>
+        <item>Geografía</item>
+        <item>Economía</item>
+    </string-array>
+</resources>
