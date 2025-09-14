@@ -15,7 +15,7 @@
 ![Paleta de colores](https://drive.google.com/uc?export=view&id=1jdNzH9p-xN9FtPbtszyDUhaeeDGPhijw)
 
 ## 📦 Descargar APK
-👉 [Haz clic aquí para descargar la última versión](https://drive.google.com/uc?export=download&id=1jnvuWzxa1QjYStVXLetamIG2HgHNEnW)
+👉 [Haz clic aquí para descargar la última versión]([https://drive.google.com/uc?export=download&id=1jnvuWzxa1QjYStVXLetamIG2HgHNEnW](https://drive.google.com/file/d/1jnvuWzxa1QjYStVXLetamIG2HgHNEnW-/view?usp=sharing)
 
 
 
