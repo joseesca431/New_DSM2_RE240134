@@ -1,6 +1,6 @@
 # 📱 Re(Register)
 
-**Re(Register)** es una aplicación móvil diseñada para *gestionar registros de usuarios en este caso los docentes de un colegio, para que puedan registrar a sus alumnos y susnotas finales en cada materia, donde podran modificar los registros en caso de algun cambio*].
+**Re(Register)** es una aplicación móvil diseñada para *gestionar registros de usuarios en este caso los docentes de un colegio, para que puedan registrar a sus alumnos y sus notas finales en cada materia y se registrara en una base de datos en firebase*].
 
 ---
 #Enlace del video donde se ve la aplicacion funcionando
